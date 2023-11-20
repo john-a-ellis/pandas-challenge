@@ -4,9 +4,11 @@ Module 4 Challenge Assignment
 Submitted by: John Ellis
 
 This assignment consists of three files:
->>PyCitySchools_starter.ipynb
->>schools_complete.csv 
->>students_complete.csv
+>>1. PyCitySchools_starter.ipynb
+
+>>2. schools_complete.csv 
+
+>>3. students_complete.csv
 
 The PyCitySchools_starter.ipynb is a Jupyter Notebook and is located in the PyCitySchools folder.
 
